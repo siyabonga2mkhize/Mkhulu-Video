@@ -1,1 +1,1 @@
-![Video](https://raw.githubusercontent.comsiyabonga2mkhize/Mkhulu-Video.git/main/myvideo.mp4)
+https://raw.githubusercontent.com/siyabonga2mkhize/Mkhulu-Video/main/myvideo.mp4
